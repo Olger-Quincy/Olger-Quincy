@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ## Mechanical Engineer looking to multiply machines with infinity
 <!--
 **Olger-Quincy/Olger-Quincy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
